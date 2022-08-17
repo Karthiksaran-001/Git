@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karthiksaran
-- 👀 I’m interested in Programming and My Domain is AI and Web Development
-- 🌱 I’m currently learning RPA 
+- 👀 I’m interested in Programming and My Domain is Data Science and RPA
+- 🌱 I’m currently Working  RPA 
 - 💞️ I’m looking to collaborate on Industrial Projects
 - 📫 How to reach me mail : mailmekarthik001@gmail.com
 
