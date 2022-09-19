@@ -7,3 +7,5 @@ Pineapple
 mango
 cherry
 blackcurrent
+papaya
+fig
