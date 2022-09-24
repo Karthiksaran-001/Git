@@ -9,3 +9,6 @@ cherry
 blackcurrent
 papaya
 fig
+Cashew
+lychee
+
